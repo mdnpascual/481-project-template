@@ -1,10 +1,11 @@
-# CPSC 481 - Tutorial [X] - Group [Y]
+# CPSC 481 - Tutorial 2 - Group 3
 
-## Project Title
+## Cooking Instructor
 
-* Title
-* Team Members (names, IDs)
-* Tutorial Number and TA
+* Cooking Instructor
+* Marc Desorcy - 10155552
+* Michael David Pascual - 10107219
+* Tutorial 2 with [TA NAME]
 
 ## Project Idea
 
