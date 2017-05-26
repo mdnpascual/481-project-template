@@ -8,7 +8,7 @@
 
 ## Project Idea
 
-![](http://lorempixel.com/1200/300/ "Motivational image")
+![](https://github.com/mdnpascual/481-project-template/blob/master/banner.jpg?raw=true "Banner Image")
 
 We have decided to create a Cooking Instructor as our project. Such a description is very vague and open, so we decided that we would create an app that provides easy-to-follow step-by-step recipes. To differentiate the app from an electronic cookbook, the app will provide other features such as in-app timers for cooking or mixing, voice-overs for the instructions, and illustrations of steps.
 
