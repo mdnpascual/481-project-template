@@ -2,16 +2,17 @@
 
 ## Cooking Instructor
 
-* Cooking Instructor
-* Marc Desorcy - 10155552
-* Michael David Pascual - 10107219
-* Tutorial 2 with [TA NAME]
+* [Marc Desorcy - 10155552](marc.desorcy@ucalgary.ca)
+* [Michael David Pascual - 10107219](mnpascua@ucalgary.ca)
+* Tutorial 2 with Kody Dillman
 
 ## Project Idea
 
 ![](http://lorempixel.com/1200/300/ "Motivational image")
 
-_[summary -- e.g. from P1]_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum placerat ex vitae metus dapibus, vel auctor mi tincidunt. Vestibulum vitae rhoncus est. Curabitur molestie nunc in velit lobortis, mollis pellentesque lacus interdum. Aliquam consectetur malesuada dolor quis lacinia. Nullam dictum felis lectus, tincidunt auctor orci efficitur sed. In ac urna at leo pretium varius at id orci. Mauris sed tincidunt turpis, eget malesuada urna. In consectetur, purus et aliquet tincidunt, orci quam eleifend tellus, vel convallis sem odio a nunc. Pellentesque sed facilisis risus, ut rhoncus nibh. Sed ut ipsum condimentum, faucibus velit id, ornare arcu. Suspendisse at velit scelerisque, cursus ante sit amet, porttitor ipsum. Nulla eu suscipit sapien. Cras ullamcorper cursus mi. Proin blandit luctus enim, eu tincidunt libero dapibus eu. Mauris ut finibus turpis. Etiam nisi erat, malesuada ut velit quis, viverra feugiat augue.
+We have decided to create a Cooking Instructor as our project. Such a description is very vague and open, so we decided that we would create an app that provides easy-to-follow step-by-step recipes. To differentiate the app from an electronic cookbook, the app will provide other features such as in-app timers for cooking or mixing, voice-overs for the instructions, and illustrations of steps.
+
+We expect this system to be used by people in households with low-to-moderate skill in cooking, yet have interest in developing their cooking skills or simply wish to not rely on ready-made food. The expected context will be that this app will be used before meal-times to cook for personal reasons, although it is also possible the users may cook for company.
 
 _[summary image -- sketch or picture]_
 
